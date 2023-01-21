@@ -9,7 +9,7 @@ from sklearn import datasets
 from collections import Counter
 
 st.write("""
-# Simple Iris Flower Prediction App
+# Simple Iris Flower Prediction App with different models and parameters
 
 This app allows to predict the **Iris flower** type by **user** input values\n
 It uses different machine learning algorithms to achieve that prediction :
